@@ -18,7 +18,7 @@ This project is a Python script that allows you to overlay text onto a video fil
 1. Clone the repository:
 
 
-git clone https://github.com/your-username/video-text-overlay.git
+git clone https://github.com/shivayapandey/text-to-video.git
 
 2. Navigate to the project directory:
 
