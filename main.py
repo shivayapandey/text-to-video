@@ -14,8 +14,8 @@ def add_text_to_video(video_path, text, output_path):
     final_clip.write_videofile(output_path, codec='libx264', fps=24)
 
 if _name_ == "_main_":
-    video_path = '/Users/krishkatyal/Downloads/input.mp4'  # Path to the input video
-    output_path = '/Users/krishkatyal/Downloads/output_video.mp4'  # Path to save the output video
+    video_path = '/Users/shivayapandey/Downloads/input.mp4'  # Path to the input video
+    output_path = '/Users/shivayapandey/Downloads/output_video.mp4'  # Path to save the output video
     text = "Your text here"  # Text to overlay onto the video
 
     add_text_to_video(video_path, text, output_path)
